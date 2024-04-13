@@ -40,6 +40,16 @@ Python, Playwright, CI/CD Jenkins, Pytest,
 # Reporting
 HTML
 
+# Test Coverage
+```python3 -m pip install coverage```
+## Run
+```coverage run -m pytest```
+More information([https://coverage.readthedocs.io/en/7.4.4/])
+HTML
+```coverage html```
+![Coverage Report Illustration Image](sample_coverage_report.png)
+
+
 # CI/CD 
 Jenkins
 
