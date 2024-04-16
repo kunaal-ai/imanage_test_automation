@@ -42,11 +42,15 @@ HTML
 
 # Test Coverage
 ```python3 -m pip install coverage```
-## Run
+
+### Run
+
 ```coverage run -m pytest```
+
 More information([https://coverage.readthedocs.io/en/7.4.4/])
-HTML
-```coverage html```
+
+HTML View - ```coverage html```
+
 ![Coverage Report Illustration Image](sample_coverage_report.png)
 
 
